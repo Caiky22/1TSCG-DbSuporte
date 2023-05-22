@@ -82,7 +82,7 @@
     <element xsi:type="archimate:Node" name="Web server " id="id-0f0f2df34095491cbb3aedc5c31c5f05"/>
     <element xsi:type="archimate:Node" name="Application server" id="id-96a10699e64c424f81d9a8987b90cc04"/>
     <element xsi:type="archimate:Node" name="Database Server (64Gb RAM, 32Gb HD interno com RAID 1, 2 procesadores XEON 333 mhz, duas fontes de energia redundantes, placa de rede dual FCAL-fibra)" id="id-d56942f2a8e846c889c08861c913a302"/>
-    <element xsi:type="archimate:Node" name="SAN (64Gb RAM, 2 processadores protegidos, discos em RAID 5 com recurso Hot Swap, fonte dual redundande Hot Swap, 2 Placa de rede Quad FCAL em trunking)" id="id-95b5be22a0264dc5a05886cbf27ee887"/>
+    <element xsi:type="archimate:Node" name="SAN (64Gb RAM, 2 processadores protegidos, discos em RAID 5 com recurso Hot Swap, fonte dual redundande Hot Swap, 2 Placa de rede Quad FCAL) em trunking" id="id-95b5be22a0264dc5a05886cbf27ee887"/>
     <element xsi:type="archimate:Node" name="Robô de backup" id="id-22c856bb20ef413295d38ed01f4e86ce"/>
     <element xsi:type="archimate:Path" name="Fibra ótica" id="id-dd99a798cad14e22bdb9f968a48899ec"/>
     <element xsi:type="archimate:Path" name="Fibra ótica" id="id-44ea5400d3f347eab2df045d9bff291b"/>
